@@ -6,7 +6,7 @@ import './MainSection.css';
 function MainSection() {
     return (
         <div className="main-container">
-            <video src="/video/video-2.mp4" autoPlay loop muted />
+            {/* <video src='/videos/video-2.mp4' autoPlay loop muted /> */}
             <h1>New Home Awaits</h1>
             <p>Get one today.</p>
             <div className="main-btns">
@@ -21,4 +21,4 @@ function MainSection() {
     )
 }
 
-export default MainSection
+export default MainSection;
