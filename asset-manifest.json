@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/housing-site/static/css/main.5f361e03.chunk.css",
+    "main.js": "/housing-site/static/js/main.7de84228.chunk.js",
+    "main.js.map": "/housing-site/static/js/main.7de84228.chunk.js.map",
+    "runtime-main.js": "/housing-site/static/js/runtime-main.bb71b5a7.js",
+    "runtime-main.js.map": "/housing-site/static/js/runtime-main.bb71b5a7.js.map",
+    "static/js/2.d1599947.chunk.js": "/housing-site/static/js/2.d1599947.chunk.js",
+    "static/js/2.d1599947.chunk.js.map": "/housing-site/static/js/2.d1599947.chunk.js.map",
+    "index.html": "/housing-site/index.html",
+    "precache-manifest.7fbe675c8a0379b370f4266707f9d248.js": "/housing-site/precache-manifest.7fbe675c8a0379b370f4266707f9d248.js",
+    "service-worker.js": "/housing-site/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/housing-site/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d1599947.chunk.js.LICENSE.txt": "/housing-site/static/js/2.d1599947.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/housing-site/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb71b5a7.js",
+    "static/js/2.d1599947.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.7de84228.chunk.js"
+  ]
+}
