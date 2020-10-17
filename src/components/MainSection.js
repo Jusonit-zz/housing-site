@@ -2,7 +2,7 @@ import React from 'react';
 import '../App.css';
 import { Button } from './Button';
 import './MainSection.css';
-import landingVid from './videos/video-3.mp4';
+import landingVid from './videos/video-1.mp4';
 
 function MainSection() {
     return (
